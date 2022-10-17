@@ -1,9 +1,5 @@
 # OeSNN-UAD
 
-## Source code files
-
-
-
 ## Input Data Format
 
 Each input data file should contain three columns: the first one being series of timestamps, the second one being real input values to be classified and the third one should contain labels denoting presence or absence of anomaly for each input value. The presence of anomaly should be indicated by 1, while absence by 0. The types of these three columns should be as follows:
@@ -27,7 +23,7 @@ On each executions all the results are on the folder *Data/Results*. Contains tw
 The other file is a representive graph of the results.
 
 ## Paper
-
+Unsupervised Anomaly Detection in Stream Data with Online Evolving Spiking Neural Networks - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-proposed-OeSNN-UAD-architecture_fig2_349596550 [accessed 17 Oct, 2022]
 
 
 ## Contact
