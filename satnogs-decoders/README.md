@@ -207,32 +207,3 @@ $ ./contrib/manage/fetch_frames_from_network.py 40967 2018-10-26T00:00:00 2018-1
 Fetched 45 frames.
 ```
 
-## Existing decoders
-- AAUSAT4 by OZ3RF & DL4PD
-- ACRUX-1 by DL4PD
-- AMICALSAT by deckbsd
-- ARMADILLO by DL4PD
-- ASU PHOENIX by DL4PD & deckbsd
-- AMSAT FOX DUV by DL4PD
-- AX.25 frame decoder by DL4PD
-- CAS-4A & CAS-4B by cshields
-- CHOMPTT by DL4PD
-- CubeBel-1 by DL4PD
-- Delfi N3xt by pierros
-- Elfin-A & -B by DL4PD
-- Entrysat by DL4PD
-- GT-1 by dillan1
-- Lightsail-2 by DL4PD
-- Ops-sat by deckbsd
-- Painani by DL4PD
-- Polyitan-1 by deckbsd
-- QBEE by Ansgar Schmidt
-- Siriussat-1 & -2 by kerel
-- skCUBE by borispilka & kerel
-- Strand-1 by kerel
-- TARGIT by dillan1
-- TBEX-A/-B by DL4PD
-- Unisat-6 by cshields
-
-## License
-Helper scripts: AGPL-3.0-or-later
