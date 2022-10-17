@@ -1,0 +1,8 @@
+!/satnogsdecoders/decoder/__init__.py
+*.pyc
+*~
+/*.egg-info/
+/.tox
+/build/
+/dist/
+/satnogsdecoders/decoder/
