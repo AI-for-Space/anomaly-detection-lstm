@@ -1,6 +1,20 @@
 # Detección de anomalía no supervisada con líneas temporales univariadas aplicadas a datos satelitales
 
-Realizar la detección de anomalías mediante la técnica Online evolving Spiking Neural Networks for Unsupervised Anomaly Detection (OeSNN-UAD) que tiene un enfoque no supervisado basado en líneas temporales univariadas
+<div align=center>
+  <a href="https://www.universidadviu.com/es/"><img src="https://user-images.githubusercontent.com/15159632/155946766-9bf49086-a07f-473c-a703-65c1cc739c9c.png" alt="VIU" title="VIU" hspace="30" height="96px" /></a>
+</div>
+
+<br/>
+
+Author: Jorge Vergara ([@jorge1993](https://github.com/jorge1993)) (jorgevergara1993@gmail.com)
+
+Advisor: Guzman-Alvarez, Cesar Augusto ([@cguz](https://github.com/cguz)) 
+
+---
+
+## Objective
+
+Perform anomaly detection using the Online evolving Spiking Neural Networks for Unsupervised Anomaly Detection (OeSNN-UAD) technique, which has an unsupervised approach based on univariate timelines
 
 ## Input Data Format
 
@@ -27,7 +41,3 @@ The other file is a representive graph of the results.
 ## Paper
 Unsupervised Anomaly Detection in Stream Data with Online Evolving Spiking Neural Networks - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/The-proposed-OeSNN-UAD-architecture_fig2_349596550 [accessed 17 Oct, 2022]
 
-
-## Contact
-
-For questions contact Jorge Vergara: <jorgevergara1993@gmail.com>
