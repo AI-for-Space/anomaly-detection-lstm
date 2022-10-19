@@ -1,4 +1,6 @@
-# OeSNN-UAD
+# Detección de anomalía no supervisada con líneas temporales univariadas aplicadas a datos satelitales
+
+Realizar la detección de anomalías mediante la técnica Online evolving Spiking Neural Networks for Unsupervised Anomaly Detection (OeSNN-UAD) que tiene un enfoque no supervisado basado en líneas temporales univariadas
 
 ## Input Data Format
 
